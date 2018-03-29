@@ -1,0 +1,22 @@
+Alpha
+1.0.0 (10/7/2016)	:	Completed main menu
+1.0.1 (11/7/2016)	: 	Compacted source code.
+1.0.2 (18/7/2016)	: 	Added basic structure of Local Game.
+1.0.3 (25/7/2016)	: 	Added info function. Improve interface structure.
+1.0.4 (26/7/2016)	: 	Turn the number in hand into short form of cards.
+1.0.5 (27/7/2016)	: 	Added the function of using money card and pass GO.
+1.0.6 (30/7/2016)	: 	Use two lines to present hand. Minor big fixes.
+1.0.7 (6/8/2016) 	: 	Added discard system for holding more than 7 cards at the end of the turn. Single color properties can now be used and displayed correctly.
+1.0.8 (7/8/2016) 	:	Added full indicator for properties. Minor bug fixed.
+1.0.9 (13/8/2016)	:	Added wild properties. Fixed the version mistake.
+1.0.10 (14/8/2016)	:	Added win detection.
+1.0.11 (18/8/2016)	:	Change the money system: 4m 3m 10m instead of 17M to show how to pay for rent and easier calculation.
+1.0.12 (19/8/2016)	:	Modify money system for easier payment of rent. Tested and modified pay procedure. Rent card implemented.
+1.0.13 (20/8/2016)	:	Added double the rent, sly deal, forced deal and deal breaker (last two needed testing).
+1.0.14 (21/8/2016)	:	Added Just say NO. Fixed minor bugs.
+1.0.15 (4/9/2016)	:	Added House and Hotel.(Not yet tested) (Victory detection and house and properties are tested at 26/9/2016)
+1.0.16 (1/10/2016)	:	Added detection of important file. Generation of those file if not exist will be added later.
+1.0.17 (8/10/2016)	:	Forget about 1.0.16. All files are changed to arrays inside programme.
+1.0.18 (13/10/2016)	:	Tutorial has been added. Fixed the damn version at menu AGAIN.
+1.0.19 (15/10/2016)	:	Option is added. Fixed the flashing when moving the arrow.
+1.0.20 (16/10/2016)	:	Trial game for newbies is added. Fixed the width issue. End of alpha. Beta should be around bug fixing and AI.

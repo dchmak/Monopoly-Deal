@@ -1,0 +1,120 @@
+Deal Breaker
+$5M
+Steal a complete set of property from any player.
+Just Say No
+$4M
+Use any time when an action card is played against you.
+Sly Deal
+$3M
+Steal a property from the player of your choice. The property cannot be a part of a full set.
+Forced Deal
+$3M
+Swap any property with another player. The property cannot be a part of a full set.
+Debt Collector
+$3M
+Force any player to pay you $5M.
+It's My Birthday
+$2M
+All players give you $2M as gift.
+Pass GO
+$1M
+Draw 2 extra cards.
+House
+$3M
+Add onto any full set you own (Except Railroads and Utilities) to add $3M to the Rent value.
+Hotel
+$4M
+Add onto any full set you own (Except Railroads and Utilities) to add $4M to the Rent value.
+Double the rent
+$1M
+Needs to be played with a Rent card. It literally doubles your rent income. 
+Purple and Orange rent cards
+$1M
+All player pay you rent for properties you own in purple or orange color.
+Railroad and Utility rent cards
+$1M
+All player pay you rent for railroad or utilities you own.
+Green and Dark Blue rent cards
+$1M
+All player pay you rent for properties you own in green or dark blue color.
+Brown and Light Blue rent cards
+$1M
+All player pay you rent for properties you own in brown or light blue color.
+Red and Yellow rent cards
+$1M
+All player pay you rent for properties you own in red or yellow color.
+ten color wild rent cards
+$3M
+Force one player to pay you rent for properties you own in any color.
+Green properties
+$4M
+No. of properties owned in set (Rent): 1($2M) 2($4M) (Full set)3($7M)
+Dark Blue properties
+$4M
+No. of properties owned in set (Rent): 1($3M) (Full set)2($8M)
+Red properties
+$3M
+No. of properties owned in set (Rent): 1($2M) 2($3M) (Full set)3($6M)
+Yellow properties
+$3M
+No. of properties owned in set (Rent): 1($2M) 2($4M) (Full set)3($6M)
+Orange properties
+$2M
+No. of properties owned in set (Rent): 1($1M) 2($3M) (Full set)3($5M)
+Brown properties
+$1M
+No. of properties owned in set (Rent): 1($1M) (Full set)2($2M)
+Light Blue properties
+$1M
+No. of properties owned in set (Rent): 1($1M) 2($2M) (Full set)3($3M)
+Purple properties
+$2M
+No. of properties owned in set (Rent): 1($1M) 2($2M) (Full set)3($4M)
+Utility properties
+$2M
+No. of properties owned in set (Rent): 1($1M) (Full set)2($2M)
+Railroad properties
+$2M
+No. of properties owned in set (Rent): 1($1M) 2($2M) 3($3M) (Full set)4($4M)
+Purple and Orange wildcards
+$2M
+Can act as purple or orange properties.
+Light Blue and Brown wildcards
+$1M
+Can act as light blue or brown properties.
+Light Blue and Railroad wildcards
+$4M
+Can act as light blue or railroad properties.
+Dark Blue and Green wildcards
+$4M
+Can act as dark blue or green properties.
+Railroad and Green wildcards
+$4M
+Can act as railroad or green properties.
+Red and Yellow wildcards
+$3M
+Can act as red or yellow properties.
+Utility and Railroad wildcards
+$2M
+Can act as utility or railroad properties.
+10 multi-color wildcards
+No Monetary Value
+Can be used as part of any property set.
+$10M money card
+$10M
+Put into your bank to pay other players.
+$5M money cards
+$5M
+Put into your bank to pay other players.
+$4M money cards
+$4M
+Put into your bank to pay other players.
+$3M money cards
+$3M
+Put into your bank to pay other players.
+$2M money cards
+$2M
+Put into your bank to pay other players.
+$1M money cards
+$1M
+Put into your bank to pay other players.

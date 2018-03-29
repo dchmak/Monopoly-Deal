@@ -1,0 +1,46 @@
+Game rules:
+Number of players: 2-5
+
+Game steps
+
+Shuffle the 106 cards and distribute 5 cards to each player face down.
+Put the remaining cards face down in the center to create the draw pile.
+Decide who should go first (play continues clockwise).
+Each player must take 2 cards when their turn starts. If a player has no cards when their turn starts, they draw 5 cards on their turn. He or she then take two cards from the deck.
+Each player can play (put down) up to 3 Property cards, Action cards, Money cards or any combination of the three each turn.
+Put money/action cards into the bank. If an action card is put into the bank, it will be treated as money until the game ends.
+Use action cards to take money, even properties from your rivals.
+Lay out the properties.
+If your rival(s) request you to pay money you may choose to pay in cash or property. If you don't have any cards in front of you, you don't have to pay any cards on your hand. You still have to pay from a complete set. Change is not given if you overpay. The multi-coloured property wild cards are an exception to this: They do not need to be given away to pay off fees to your rival(s) as they do not have any monetary value, so they can only be taken away by Deal Breaker, Sly Deal and Force Deal action cards.
+Upon finishing your turn, if you have more than 7 cards in your hand you must choose some cards to discard to the bottom of the draw pile to keep to 7 cards in your hand.
+A player wins when they have 3 sets of different colored properties on his turn. This means that there is only one winner for any one game. Usually, if there are no longer any cards left in the Draw Pile, a player would shuffle the cards remaining in the Play Pile and draw the card(s) required.
+You may put a house, then a hotel on a property full set if your have one, except Railroads and Utilities.
+
+Card types
+
+39 property cards, including 28 normal property cards, 9 bi-colored property wild cards and 2 multi-colored property wild cards.
+47 action cards (can use as money cards), including 10 color rent cards, 3 any rent cards, 2 Deal Breakers, 3 Forced Deal cards, 3 Sly Deal cards, 3 Just Say No Cards, 3 Debt Collectors, 3 It's My Birthday cards, 2 Double the Rent cards, 3 houses, 2 hotels and 10 Pass Go cards.
+20 money cards, including 6 1M cards, 5 2M cards, 3 3M cards, 3 4M cards, 2 5M cards and 1 10M card.
+
+Usage of the cards
+
+Normal property cards: The critical material in this game. The player who gets 3 full sets of different colored properties will be the winner.
+Property wild cards: The colors that they represent can change as many times as desired during the turn of the owner, but no changes are allowed on other player's turns.
+Bi-colored property wild cards: There are 2 colors on this kind of cards. They can substitute one of the colors shown on the card. For example, a light blue+brown card can substitute either light blue or brown properties.
+Multi-colored property wild cards: This kind of cards can substitute any colors of properties. This kind of cards is also the exclusive kind of no valued card in this game. However, this card can only represent the color of another property card that is in play under the same ownership and does not represent any color of property on its own. While these cards can't be used as payment, they can still be taken by Deal Breaker, Sly Deal and Forced Deal action cards.
+Rent cards: You can collect rent of either one set of your properties from all rivals. For example, if you play a red+yellow rent card, you can either collect the rent of red or yellow properties from all rivals. Even if one might collect 2 sets of properties of the same color, rent can still only be collected from one set. Properties can be taken from a full set as payment.
+Multi-colored rent cards: The function of this kind of cards is collect rent of any one of the colors of your properties from one rival.
+Double the Rent: This kind of card should be played with rent cards. Doubles the rent chargeable.
+Sly Deal: You can steal a property card from one rival, but you can't steal a property card in a full set of properties.
+Forced Deal: You can swap a property card with one rival, but you can't swap a property card in a full set of properties.
+Deal Breaker: A powerful action card which let you steal a full set of property cards from one rival including buildings.
+Just Say No: Can be played at any time during the game to cancel the actions of a rival only against the user who played this card. Another Just Say No card can be played to cancel a previously played Just Say No card too, and so on. These cards do not count if used during your turn.
+Debt collector: Collect 5M from one rival.
+It's My Birthday: Collect 2M from all rivals.
+Pass go: Draw 2 extra cards.
+House: Can be played on any full set of properties except railroads and utilities. Only 1 House can be added to a full set. Adds 3M to the total rent.
+Hotel: Can be played on any full set of properties after adding a House action card. Only 1 Hotel can be added to a full set. Adds 4M to the total rent.
+Money cards: Put it into your bank for paying fees (rents, debts, gifts) to your rivals.
+
+
+

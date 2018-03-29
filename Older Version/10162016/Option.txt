@@ -1,0 +1,4 @@
+First Time?:
+0
+Text color: (Default: white(15))
+15
